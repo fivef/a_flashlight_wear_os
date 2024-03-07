@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A Flashlight</string>
+    <string name="startup_brightness_key">startup_brightness</string>
+</resources>
